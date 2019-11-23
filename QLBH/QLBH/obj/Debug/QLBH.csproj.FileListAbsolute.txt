@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\ACER\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\ACER\source\repos\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.FormLogin.resources
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.frmMain.resources
+C:\Users\ACER\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
